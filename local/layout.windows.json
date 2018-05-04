@@ -1,0 +1,95 @@
+{
+  "version": "1.1.1",
+  "windows": {
+    "main": {
+      "main": true,
+      "url": "app://editor/index.html",
+      "windowType": "dockable",
+      "x": -8,
+      "y": -8,
+      "width": 1382,
+      "height": 784,
+      "layout": {
+        "children": [
+          {
+            "children": [
+              {
+                "active": 0,
+                "children": [
+                  "hierarchy"
+                ],
+                "height": 331.484375,
+                "type": "panel",
+                "width": 313.53125
+              },
+              {
+                "active": 0,
+                "children": [
+                  "assets"
+                ],
+                "height": 321.515625,
+                "type": "panel",
+                "width": 313.53125
+              }
+            ],
+            "height": 656,
+            "type": "dock-v",
+            "width": 313.53125
+          },
+          {
+            "children": [
+              {
+                "active": 0,
+                "children": [
+                  "scene"
+                ],
+                "height": 321.515625,
+                "type": "panel",
+                "width": 573.265625
+              },
+              {
+                "active": 0,
+                "children": [
+                  "console",
+                  "timeline"
+                ],
+                "height": 331.484375,
+                "type": "panel",
+                "width": 573.265625
+              }
+            ],
+            "height": 656,
+            "type": "dock-v",
+            "width": 573.265625
+          },
+          {
+            "active": 0,
+            "children": [
+              "inspector"
+            ],
+            "height": 656,
+            "type": "panel",
+            "width": 467.21875
+          }
+        ],
+        "type": "dock-h"
+      },
+      "panels": [
+        "console",
+        "inspector",
+        "hierarchy",
+        "assets",
+        "scene",
+        "timeline"
+      ]
+    }
+  },
+  "panels": {
+    "code-editor": {
+      "x": 275,
+      "y": 54,
+      "width": 816,
+      "height": 639
+    }
+  }
+}

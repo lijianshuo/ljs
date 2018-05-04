@@ -1,0 +1,50 @@
+2018-04-26T00:55:48.189Z - normal: Load ~/.CocosCreator/settings.json
+2018-04-26T00:55:48.199Z - normal: checking language setting...
+2018-04-26T00:55:48.199Z - normal: Language: zh
+2018-04-26T00:55:50.960Z - success: protocol editor-framework registered
+2018-04-26T00:55:50.960Z - success: protocol app registered
+2018-04-26T00:55:50.960Z - success: protocol theme registered
+2018-04-26T00:55:50.960Z - success: protocol profile registered
+2018-04-26T00:55:50.961Z - success: protocol packages registered
+2018-04-26T00:55:50.961Z - success: protocol unpack registerred
+2018-04-26T00:55:50.961Z - success: protocol disable-commonjs registerred
+2018-04-26T00:55:51.622Z - normal: connected!
+2018-04-26T00:55:51.625Z - normal: Check project C:\Users\Administrator\Desktop\start_project
+2018-04-26T00:55:51.633Z - normal: Initializing Cocos2d
+2018-04-26T00:55:52.771Z - normal: Initializing Asset Database
+2018-04-26T00:55:52.886Z - success: protocol uuid registerred
+2018-04-26T00:55:52.886Z - success: protocol db registerred
+2018-04-26T00:55:52.887Z - success: protocol thumbnail registerred
+2018-04-26T00:55:52.888Z - normal: Loading editor/builtin packages
+2018-04-26T00:55:53.271Z - success: assets loaded
+2018-04-26T00:55:53.275Z - success: builder loaded
+2018-04-26T00:55:53.283Z - success: hierarchy loaded
+2018-04-26T00:55:53.289Z - success: inspector loaded
+2018-04-26T00:55:53.292Z - success: keystore loaded
+2018-04-26T00:55:53.299Z - success: node-library loaded
+2018-04-26T00:55:53.306Z - success: preferences loaded
+2018-04-26T00:55:53.341Z - success: project-importer loaded
+2018-04-26T00:55:53.345Z - success: project-settings loaded
+2018-04-26T00:55:53.350Z - success: ui-kit loaded
+2018-04-26T00:55:53.375Z - success: ui-grid loaded
+2018-04-26T00:55:53.395Z - success: scene loaded
+2018-04-26T00:55:53.401Z - success: sprite-editor loaded
+2018-04-26T00:55:53.692Z - success: store loaded
+2018-04-26T00:55:53.712Z - success: timeline loaded
+2018-04-26T00:55:53.713Z - normal: Loading builtin packages
+2018-04-26T00:55:53.725Z - success: anysdk loaded
+2018-04-26T00:55:53.728Z - success: asset-db-debugger loaded
+2018-04-26T00:55:53.733Z - success: code-editor loaded
+2018-04-26T00:55:53.738Z - success: color-picker loaded
+2018-04-26T00:55:53.746Z - success: console loaded
+2018-04-26T00:55:53.752Z - success: package-manager loaded
+2018-04-26T00:55:53.759Z - success: tester loaded
+2018-04-26T00:55:53.762Z - success: ui-kit-preview-extra loaded
+2018-04-26T00:55:53.766Z - success: ui-kit-preview loaded
+2018-04-26T00:55:53.772Z - success: ui-tree loaded
+2018-04-26T00:55:53.918Z - normal: Initializing project C:\Users\Administrator\Desktop\start_project
+2018-04-26T00:55:53.930Z - normal: Loading packages
+2018-04-26T00:55:53.938Z - normal: Watching packages
+2018-04-26T00:55:53.982Z - normal: Run Application
+2018-04-26T00:55:56.195Z - success: preview server running at http://localhost:7456
+2018-04-26T00:56:10.958Z - normal: 1.4.0
